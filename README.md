@@ -6,3 +6,4 @@
 * Red-Team: Summary of Operations; A description of the exploitation process
 * Blue-Team: Summary of Operations; An outline of the alerts established to mitigate attacks
 * Network Analysis; Findings of network traffic inspection using Wireshark
+* Powerpoint Presentation detailing the Offensive Operation
