@@ -1,6 +1,6 @@
 ## Project-3-Attack---Strike-Back
 
-### Penetration, Analysis and Hardening of a Vulenrable System & Analysis of Network Traffic
+### Penetration, Analysis and Hardening of a Vulnerable System & Analysis of Network Traffic
 
 #### This project includes the following:
 * Red-Team: Summary of Operations; A description of the exploitation process
